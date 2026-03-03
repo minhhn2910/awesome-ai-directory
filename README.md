@@ -8,65 +8,35 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 
 ## 🧭 Quick Tiles (Click to Jump)
 
-<style>
-/* Bigger, readable tiles + light/dark friendly background */
-:root{
-  --tile-bg: linear-gradient(135deg, #f7f7ff 0%, #f2fbff 40%, #f7fff7 100%);
-  --tile-border: rgba(0,0,0,.08);
-  --tile-text: #111;
-}
-@media (prefers-color-scheme: dark){
-  :root{
-    --tile-bg: linear-gradient(135deg, rgba(90,56,255,.18) 0%, rgba(0,180,255,.14) 45%, rgba(0,255,170,.10) 100%);
-    --tile-border: rgba(255,255,255,.12);
-    --tile-text: #f5f7ff;
-  }
-}
-.ai-tiles{
-  border: 1px solid var(--tile-border);
-  background: var(--tile-bg);
-  border-radius: 18px;
-  padding: 18px 18px 6px;
-  margin: 14px 0 18px;
-  color: var(--tile-text);
-}
-.ai-tiles h3{ margin: 0 0 10px; font-size: 1.1rem; }
-.ai-tiles a img{ height: 28px; margin: 6px 8px 10px 0; }
-.ai-tiles table{ width: 100%; }
-.ai-tiles td{ padding: 6px 10px 14px; }
-</style>
-
-<div class="ai-tiles">
 <table>
   <tr>
     <td valign="top" width="50%">
       <h3>🧑‍💻 Users</h3>
       <p>
-        <a href="#-general-assistants"><img alt="💬 Chat Assistants" src="https://img.shields.io/badge/💬%20Assistants-111?logo=openai&logoColor=white"></a>
-        <a href="#-search--research"><img alt="🔎 Search" src="https://img.shields.io/badge/🔎%20Search%20%26%20Research-111?logo=perplexity&logoColor=white"></a>
-        <a href="#-coding"><img alt="🧑‍💻 Coding" src="https://img.shields.io/badge/🧑‍💻%20Coding-111?logo=visualstudiocode&logoColor=white"></a>
-        <a href="#-image--video"><img alt="🖼️ Image/Video" src="https://img.shields.io/badge/🖼️%20Image%20%26%20Video-111?logo=adobe&logoColor=white"></a>
-        <a href="#-productivity--meetings"><img alt="🗓️ Meetings" src="https://img.shields.io/badge/🗓️%20Meetings-111?logo=zoom&logoColor=white"></a>
-        <a href="#-general-automation--productivity"><img alt="⚡ Automation" src="https://img.shields.io/badge/⚡%20Automation%20%26%20Productivity-111?logo=zapier&logoColor=white"></a>
-        <a href="#-free-tools--websites"><img alt="🆓 Free Tools" src="https://img.shields.io/badge/🆓%20Free%20Tools-111?logo=opensourceinitiative&logoColor=white"></a>
-        <a href="#-learning-resources-users"><img alt="📚 Learning" src="https://img.shields.io/badge/📚%20Learning-111?logo=bookstack&logoColor=white"></a>
+        <a href="#-general-assistants"><img src="https://img.shields.io/badge/💬%20Assistants-111?style=for-the-badge&logo=openai&logoColor=white" /></a>
+        <a href="#-search--research"><img src="https://img.shields.io/badge/🔎%20Search%20%26%20Research-111?style=for-the-badge&logo=perplexity&logoColor=white" /></a>
+        <a href="#-coding"><img src="https://img.shields.io/badge/🧑‍💻%20Coding-111?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+        <a href="#-image--video"><img src="https://img.shields.io/badge/🖼️%20Image%20%26%20Video-111?style=for-the-badge&logo=adobe&logoColor=white" /></a>
+        <a href="#-productivity--meetings"><img src="https://img.shields.io/badge/🗓️%20Meetings-111?style=for-the-badge&logo=zoom&logoColor=white" /></a>
+        <a href="#-general-automation--productivity"><img src="https://img.shields.io/badge/⚡%20Automation%20%26%20Productivity-111?style=for-the-badge&logo=zapier&logoColor=white" /></a>
+        <a href="#-free-tools--websites"><img src="https://img.shields.io/badge/🆓%20Free%20Tools-111?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /></a>
+        <a href="#-learning-resources-users"><img src="https://img.shields.io/badge/📚%20Learning-111?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
       </p>
     </td>
     <td valign="top" width="50%">
       <h3>🛠️ Builders</h3>
       <p>
-        <a href="#-agentic--genai-app-frameworks"><img alt="🧠 Agentic Apps" src="https://img.shields.io/badge/🧠%20Agentic%20%26%20GenAI%20Apps-111?logo=internetexplorer&logoColor=white"></a>
-        <a href="#-apis--model-gateways"><img alt="🔑 APIs" src="https://img.shields.io/badge/🔑%20APIs%20%26%20Model%20Gateways-111?logo=cloudflare&logoColor=white"></a>
-        <a href="#-models--training--hubs"><img alt="🧪 Models" src="https://img.shields.io/badge/🧪%20Models%20%26%20Training-111?logo=pytorch&logoColor=white"></a>
-        <a href="#-serving--local-runtimes"><img alt="🚀 Serving" src="https://img.shields.io/badge/🚀%20Serving%20%26%20Local%20Runtimes-111?logo=nvidia&logoColor=white"></a>
-        <a href="#-evaluation--observability"><img alt="📏 Eval" src="https://img.shields.io/badge/📏%20Eval%20%26%20Observability-111?logo=opentelemetry&logoColor=white"></a>
-        <a href="#-protocols--tool-standards"><img alt="🔌 Protocols" src="https://img.shields.io/badge/🔌%20Protocols%20%26%20Standards-111?logo=webflow&logoColor=white"></a>
-        <a href="#-learning-resources-builders"><img alt="📚 Learning" src="https://img.shields.io/badge/📚%20Learning-111?logo=readthedocs&logoColor=white"></a>
+        <a href="#-agentic--genai-app-frameworks"><img src="https://img.shields.io/badge/🧠%20Agentic%20%26%20GenAI%20Apps-111?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
+        <a href="#-apis--model-gateways"><img src="https://img.shields.io/badge/🔑%20APIs%20%26%20Model%20Gateways-111?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+        <a href="#-models--training--hubs"><img src="https://img.shields.io/badge/🧪%20Models%20%26%20Training-111?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+        <a href="#-serving--local-runtimes"><img src="https://img.shields.io/badge/🚀%20Serving%20%26%20Local%20Runtimes-111?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+        <a href="#-evaluation--observability"><img src="https://img.shields.io/badge/📏%20Eval%20%26%20Observability-111?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a>
+        <a href="#-protocols--tool-standards"><img src="https://img.shields.io/badge/🔌%20Protocols%20%26%20Standards-111?style=for-the-badge&logo=webflow&logoColor=white" /></a>
+        <a href="#-learning-resources-builders"><img src="https://img.shields.io/badge/📚%20Learning-111?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 </table>
-</div>
 
 ---
 
