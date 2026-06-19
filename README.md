@@ -126,6 +126,7 @@ Free (or open‑source/local) options you can start using immediately:
 - 🗂️ **LlamaIndex** — Data framework for RAG over documents, databases, and APIs. ([website](https://www.llamaindex.ai), [github](https://github.com/run-llama/llama_index))
 - 🧑‍🤝‍🧑 **AutoGen** — Multi‑agent framework for collaborative tool‑using agents. ([website](https://microsoft.github.io/autogen/), [github](https://github.com/microsoft/autogen))
 - 🧭 **crewAI** — Orchestrate role‑based agent “crews” for multi‑step tasks. ([website](https://www.crewai.com), [github](https://github.com/crewAIInc/crewAI))
+- 🧩 **NotFair** — Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. (**🧩🆓**) ([github](https://github.com/nowork-studio/NotFair))
 
 ### 🧪 Models · Training · Hubs
 
