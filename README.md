@@ -79,6 +79,7 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 - 🧠 **ComfyUI** — Node‑based workflow builder for Stable Diffusion pipelines. (**🧩🆓**) ([website](https://comfyui.org), [github](https://github.com/comfyanonymous/ComfyUI))
 - 🎬 **Runway** — Generative video tools for editing and text‑to‑video. (**🆓/💲**) ([website](https://runwayml.com))
 - 🟧 **CapCut** — Popular video editor with AI features (captions, effects, templates). (**🆓/💲**) ([website](https://www.capcut.com))
+- 🧹 **ClearCrowds** — AI photo cleanup and editing app for removing crowds, objects, clutter, glasses, and other distractions from images. (**🆓/💲**) ([website](https://www.clearcrowds.com))
 - 🧑‍🏫 **Synthesia** — Create presenter‑style videos from scripts and templates. (**💲**) ([website](https://www.synthesia.io))
 
 ### 🗓️ Productivity & Meetings
