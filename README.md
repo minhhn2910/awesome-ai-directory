@@ -80,6 +80,7 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 - 🎬 **Runway** — Generative video tools for editing and text‑to‑video. (**🆓/💲**) ([website](https://runwayml.com))
 - 🟧 **CapCut** — Popular video editor with AI features (captions, effects, templates). (**🆓/💲**) ([website](https://www.capcut.com))
 - 🧑‍🏫 **Synthesia** — Create presenter‑style videos from scripts and templates. (**💲**) ([website](https://www.synthesia.io))
+- 🎬 **videos.social** — Turn blogs, PDFs, and prompts into editable faceless videos. (**🆓/💲**) ([website](https://videos.social/?utm_source=minhhn2910-awesome-ai-directory&utm_medium=directory&utm_campaign=listing-wave-d))
 
 ### 🗓️ Productivity & Meetings
 
