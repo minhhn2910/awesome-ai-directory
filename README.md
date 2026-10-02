@@ -53,6 +53,7 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 
 ### 🔎 Search & Research
 
+- 🔬 **Clarity** — Base x402 AI research report and chat API for agents (pay-per-use USDC). (**💲**) ([website](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899))
 - 🧾 **Perplexity** — Answer engine that cites sources and supports research‑style workflows. (**🆓/💲**) ([website](https://www.perplexity.ai))
 - 📚 **Elicit** — Research assistant for literature review, paper discovery, and evidence extraction. (**🆓/💲**) ([website](https://elicit.com))
 - 🧠 **Consensus** — Research search that summarizes and cites scientific findings. (**🆓/💲**) ([website](https://consensus.app))
