@@ -94,6 +94,7 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 
 Free (or open‑source/local) options you can start using immediately:
 
+- 🧭 **AI Tools Radar** — Free public browsing of AI tools, models, agent skills, prompts, and editorial coverage; vendor listings are separate paid services. ([website](https://aitoolsradar.com/))
 - 🐳 **DeepSeek Chat** — Free web chat for DeepSeek models, strong for coding and reasoning. ([website](https://chat.deepseek.com))
 - 🟣 **Qwen Chat** — Free web chat for Qwen models with multimodal and document features. ([website](https://qwen.ai/qwenchat))
 - 🟡 **Kimi** — Free web assistant for long documents, search, and office tasks (limits may apply). ([website](https://www.kimi.com/en))
