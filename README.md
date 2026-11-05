@@ -91,6 +91,7 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 - 🧑‍💼 **Grammarly** — Writing assistant for clarity and tone across apps and browsers. (**🆓/💲**) ([website](https://www.grammarly.com))
 
 ### 🆓 Free Tools & Websites
+- [MeetNewAI](https://meetnewai.com/) 🆓 - Free bilingual directory of new AI tools, AI games and MCP servers, organized by the job you need done.
 
 Free (or open‑source/local) options you can start using immediately:
 
