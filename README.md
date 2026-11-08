@@ -74,6 +74,7 @@ Legend: **🆓 free / free tier** · **💲 paid** · **🧩 open‑source**
 
 ### 🖼️ Image & Video
 
+- 🎞️ **ReelAI** — Create short AI videos from photos using preset effects. (**💲**) ([website](https://tryreelai.com/))
 - 🎨 **Midjourney** — High‑quality stylized image generation. (**💲**) ([website](https://www.midjourney.com))
 - 🧩 **Stable Diffusion (ecosystem)** — Open image generation models with many UIs and workflows. (**🧩🆓**) ([website](https://stability.ai), [github](https://github.com/Stability-AI/stablediffusion))
 - 🧠 **ComfyUI** — Node‑based workflow builder for Stable Diffusion pipelines. (**🧩🆓**) ([website](https://comfyui.org), [github](https://github.com/comfyanonymous/ComfyUI))
